@@ -4,3 +4,6 @@ Using the popular hacker news, ycombinator.com, I was able to build this scrappi
 
 *To run*
 - python3 scrape.py
+
+
+- Development soon- update this application into a notification tool.
